@@ -5,7 +5,7 @@ Nós acreditamos que viajar deve ser um momento de tranquilidade e sem se preocu
 Projeto final criado para a Imersão em IA da Alura
 
 **Tecnologia Utilizada:**  
-Google AI Studio
+Google AI Studio  
 Google Colab
 
 **Funcionalidades Concluídas:**  
