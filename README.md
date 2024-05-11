@@ -6,7 +6,8 @@ Projeto final criado para a Imersão em IA da Alura
 
 **Tecnologia Utilizada:**  
 Google AI Studio  
-Google Colab
+Google Colab  
+GoogleTravel (inteligência artificial consulta o site, mas futuramente poderia ser idealizado a leitura do BD das empresas pela IA)
 
 **Funcionalidades Concluídas:**  
 1)Voos Baratos:  
